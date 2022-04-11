@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathaniel Smith
+- 👋 Hi, I’m J. Nathaniel Smith - Nathaniel for short.
 - 👀 I’m interested in Music, Gaming, and Golf!
 - 🌱 I’m currently learning all I can about Back-End Development and API's!
 - 📫 How to reach me: xnathanielsmith@live.com
